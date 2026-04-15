@@ -4,14 +4,8 @@
 🚀 Frontend Technologist • AI Enthusiast • Software Engineer
 </p>
 
-<p align="center">
-  <a href="YOUR_LINKEDIN" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/SHAIKNAFEESAZMATH" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/SHAIKNAFEESAZMATH)
 
 ---
 
