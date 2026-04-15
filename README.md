@@ -5,12 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/SHAIKNAFEESAZMATH">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/SHAIKNAFEESAZMATH)
+
 </p>
 
 ---
