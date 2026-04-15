@@ -37,20 +37,19 @@ Welcome to my GitHub profile! I love building cool projects, exploring AI, and l
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=<your-username>\&show_icons=true\&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=<SHAIKNAFEESAZMATH>\&show_icons=true\&theme=radical)
 
 ---
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=<your-username>\&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=<SHAIKNAFEESAZMATH>\&theme=radical)
 
 ---
 
 ## 🌐 Connect With Me
 
-* 💼 GitHub: https://github.com/<your-username>
-* 📧 Email: <your-email>
+* 💼 GitHub: https://github.com/<SHAIKNAFEESAZMATH>
 
 ---
 
