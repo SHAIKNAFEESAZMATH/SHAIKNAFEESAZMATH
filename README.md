@@ -74,6 +74,18 @@
 
 ## 🚀 Projects
 
+### 🤖 Multi-Model AI System
+
+🔗 https://github.com/SHAIKNAFEESAZMATH/multi-model-ai-system
+
+✔️ AI Debate between multiple models (Mistral, Phi-3, Ollama)
+✔️ Document Chat with file upload support
+✔️ Model comparison & benchmarking
+✔️ Built using Streamlit + local LLMs
+✔️ Fast, lightweight & fully customizable
+
+---
+
 ### 📚 Book Publishing – Real-Time Application
 
 ✔️ Full-stack system with authentication
@@ -101,7 +113,7 @@
 
 ## ⚡ Fun Fact
 
-🚀 I enjoy building intelligent systems and solving real-world problems
+🚀 I enjoy building systems where multiple AI models interact and compete
 
 ---
 
