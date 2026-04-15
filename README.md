@@ -1,10 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+SHAIK+NAFEES+AZMATH;Frontend+Technologist;AI+Enthusiast;Building+Smart+Systems" />
-</p>
-
----
-
-# 👋 Hi, I'm SHAIK NAFEES AZMATH
+# 👋 Hi, I'm SHAIKNAFEESAZMATH
 
 🚀 **Frontend Technologist | AI Enthusiast | Software Engineer**
 
@@ -12,42 +6,50 @@
 
 ## 🧠 About Me
 
-* 🔭 Building **AI-powered systems & web apps**
-* ⚡ Focused on **scalable & clean architecture**
-* 🧠 Exploring **LLMs & automation**
-* 🤝 Strong in teamwork & problem-solving
+Versatile and detail-oriented developer passionate about building scalable software and seamless user experiences.
+Strong analytical problem solver with experience in Agile development and software engineering principles.
+
+* 🔭 Building AI-powered systems & web applications
+* ⚡ Focused on clean architecture and scalability
+* 🧠 Exploring AI, LLMs, and automation
+* 🤝 Strong in teamwork, debugging, and problem-solving
 
 ---
 
 ## ⚙️ Tech Stack
 
 **Languages:** Python • Java • C++ • JavaScript
-**Tools:** Git • GitHub • VS Code • PyCharm
-**Web:** HTML • CSS • React • Node.js
+**Tools:** Git • GitHub • VS Code • PyCharm • Cursor
+**Web:** HTML • CSS • Bootstrap • React • Node.js • AJAX • jQuery
 
 ---
 
 ## 🚀 Projects
 
-### 📚 Book Publishing App
+### 📚 Book Publishing – Real-Time Application
 
-* Full-stack system with authentication
-* Recommendation system
-* MySQL database + modular design
+* Full-stack application for searching, purchasing, and reviewing books
+* Secure authentication and session management
+* Recommendation system using collaborative filtering
+* MySQL database with normalized schema
+* Modular architecture (Purchase, Stock, Admin)
+
+---
 
 ### 📰 Insight Stream News
 
-* Real-time news using APIs
-* Built with React & Node.js
-* Personalized categories
+* Real-time global news using APIs
+* Built with JavaScript, Node.js, and React
+* Personalized category-based content
+* Smooth and responsive UI
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHAIKNAFEESAZMATH&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=SHAIKNAFEESAZMATH&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SHAIKNAFEESAZMATH&show_icons=true&theme=default" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=SHAIKNAFEESAZMATH&theme=default" height="150"/>
 </p>
 
 ---
@@ -55,19 +57,22 @@
 ## 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAIKNAFEESAZMATH&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAIKNAFEESAZMATH&layout=compact&theme=default" />
 </p>
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://bit.ly/4nc9DcY">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
+* LinkedIn:  https://bit.ly/4nc9DcY
+* GitHub: https://github.com/SHAIKNAFEESAZMATH
 
 ---
 
-⭐️ *Check out my repositories and projects!*
+## ⚡ Fun Fact
+
+I enjoy building intelligent systems and solving real-world problems with code 🚀
+
+---
+
+⭐️ If you like my work, consider giving a star to my repositories!
