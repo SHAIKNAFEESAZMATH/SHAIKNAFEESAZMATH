@@ -63,7 +63,7 @@
 ## 🌐 Connect
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">
+  <a href="https://bit.ly/4nc9DcY">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
