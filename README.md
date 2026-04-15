@@ -1,62 +1,75 @@
-# 👋 Hi there, I'm <Your Name>
+# 👋 Hi there, I'm SHAIK NAFEES AZMATH
 
-🎯 **Aspiring Developer | AI Enthusiast | Builder**
-
-Welcome to my GitHub profile! I love building cool projects, exploring AI, and learning new technologies.
+🚀 **AI Developer | Builder | Tech Explorer**
 
 ---
 
 ## 🧠 About Me
 
-* 🔭 Currently working on: **Multi-Model AI System**
-* 🌱 Learning: **Machine Learning, LLMs, Web Development**
-* 💡 Interests: AI 🤖, Automation ⚡, Open Source 🌍
-* 🎯 Goal: Build impactful and smart applications
+* 🔭 Working on: **Multi-Model AI System**
+* 🤖 Exploring: **LLMs, AI Agents, Automation**
+* ⚡ Building fast & lightweight apps
+* 🎯 Goal: Create powerful AI tools
 
 ---
 
 ## ⚙️ Tech Stack
 
-* 💻 Languages: Python, JavaScript
-* 🧰 Tools: Git, GitHub, Streamlit
-* 🤖 AI Models: Mistral, Phi-3, Ollama
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge\&logo=openai\&logoColor=white)
 
 ---
 
-## 🚀 Projects
+## 🤖 AI Models I Use
 
-### 🔹 Multi-Model AI System
+![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge)
+![Phi-3](https://img.shields.io/badge/Phi--3-6A5ACD?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 
-* Compare and debate between multiple AI models
-* Built using Streamlit
-* Features: AI Debate, Document Chat, Benchmarking
+---
 
-👉 *(Add your repo link here)*
+## 🚀 Featured Project
+
+### 🔥 Multi-Model AI System
+
+* 🧠 AI Debate between models
+* 📄 Document Chat
+* 📊 Benchmarking system
+* ⚡ Built with Streamlit + Ollama
+
+👉 https://github.com/SHAIKNAFEESAZMATH/multi-model-ai-system
 
 ---
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=<SHAIKNAFEESAZMATH>\&show_icons=true\&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=SHAIKNAFEESAZMATH\&show_icons=true\&theme=radical)
 
 ---
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=<SHAIKNAFEESAZMATH>\&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=SHAIKNAFEESAZMATH\&theme=radical)
+
+---
+
+## 📈 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHAIKNAFEESAZMATH\&layout=compact\&theme=radical)
 
 ---
 
 ## 🌐 Connect With Me
 
-* 💼 GitHub: https://github.com/<SHAIKNAFEESAZMATH>
+* 💻 GitHub: https://github.com/SHAIKNAFEESAZMATH
 
 ---
 
-## ✨ Fun Fact
+## ⚡ Fun Fact
 
-> I enjoy building AI systems and making them compete against each other 😄
+> I build AI systems where models debate each other 🤯
 
 ---
 
-⭐️ *Feel free to explore my repositories and give a star if you like my work!*
+⭐️ **Check out my repositories and give a star!**
